@@ -338,7 +338,9 @@ margin-left: 30px;
     .sepa{display: grid;margin-left: 10px;}
     .pictext{width: 200px;}
     #rece{margin-left: 20px;}
-
+    .one1{grid-template-columns: 2 1fr;}
+#monsters{display: grid;}
+#dis{margin-left: 100px;}
  }
 
 

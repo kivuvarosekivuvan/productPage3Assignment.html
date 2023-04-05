@@ -51,7 +51,7 @@
 #search1{
   border-radius: 20px;
   padding: 10px 25px 10px 10px;
-  margin-left: 300px;
+  margin-left: 200px;
   cursor: pointer;
 }
 #oda{font-size: 25px;margin-left: 20px;font-weight: 700;}
@@ -92,21 +92,28 @@
 #staki{ width: 50px; height:50px; margin-left: 30px;}
 .b1{ margin-left: 30px;}
 @media screen  and (max-width:914px){
-  #search1{margin-right: 700px;}
-.nav2{width: 90%;}
+  #search1{margin-left: -100px;padding: 2px 10px;margin-top: 30px;}
+  .nav1{display: grid;}
+.nav2{width: 90%; display: grid;}
 #oda{margin-left: 100px;}
 #wok{margin-left: 5px;width: 40%;}
-
-
-
-
-
-
-
-
-
-
-
+#move{display: grid;}
+#walk{width: 20%;}
+#wok{width: 20%;margin-top: 40px;}
+#kiu{width: 20%; margin-top: 80px;}
+.kando{margin-top: 50px;margin-left: 1px;}
+#wwa{margin-left: 100px;}
+#wwa1{margin-left: 90px;}
+#wwa2{margin-left: 90px;}
+#price1{}
+#youmay{margin-left: 1px; font-size: 35px;}
+.just{margin-left: 1px;}
+.dago{margin-top: 50px;margin-left: -1px;}
+.ship{margin-top: 50px; margin-left: 1px;}
+.santo{margin-top: 50px; margin-left: 1px;}
+.once{display: grid;width: 100%;}
+.minus{margin-top: 40px;margin-left: 2px;}
+.minus1{margin-left: 1px;}
 }
 
 
