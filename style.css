@@ -342,10 +342,12 @@ margin-left: 30px;
 #monsters{display: grid;}
 #dis{margin-left: 100px;}
 .one1{grid-template-columns: repeat(1 1fr);}
-
-
-
-
+#imm2{margin-top: 300px; margin-left: -340px;}
+#imm3{margin-top: 300px;margin-left: -640px; }
+#immm2{margin-left: -320px;}
+#immm3{margin-left: -620px;}
+#imm4{margin-left: -950px;margin-top: 300px;}
+#immm4{margin-left: -920px;}
 
 
  }
