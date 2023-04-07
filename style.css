@@ -330,7 +330,7 @@ margin-left: 30px;
     margin-left: 30px;
 }
 #link3{font-weight: 900; font-size: 16px;margin-left: 50px;}
- @media screen and (max-width:1024px),(max-height:1200px){ 
+ @media screen and (max-width:914px){ 
     .nav1{display: grid;}
     #ddown{display: grid;}
     #search1{margin-left: 20px;}
@@ -348,7 +348,7 @@ margin-left: 30px;
 #immm3{margin-left: -620px;}
 #imm4{margin-left: -950px;margin-top: 300px;}
 #immm4{margin-left: -920px;}
-#new{margin-left: 110px;}
+ #new{margin-left: 110px;}
 #imm6{margin-top: 390px;margin-left: -310px;}
 #immm6{margin-left: -310px;}
 #imm7{margin-top: 400px;margin-left: -620px;}
@@ -376,7 +376,7 @@ margin-left: 30px;
 .fyuu{margin-top: 50px;margin-left: -5px;}
 #copyr{margin-left: -2px;}
 #pq{margin-left: -2px;}
-#cookie{margin-left: -2px;}
+#cookie{margin-left: -2px;} 
 
 
 
